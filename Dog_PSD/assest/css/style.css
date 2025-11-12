@@ -17,4 +17,14 @@ li{
 }
 li>a{
     text-decoration: none;
+    padding: 0 20px;
+}
+.alc{
+    align-items: center;
+}
+.logo{
+    padding: 20px;
+}
+.search{
+    margin-right: 10px;
 }
